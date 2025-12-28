@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Responsive PDF Signer & Editor",
+  "description": "A high-performance React application for editing and signing PDFs with responsive field anchoring, digital signatures, and an AI-powered audit trail.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
